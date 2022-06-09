@@ -15,12 +15,13 @@
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/html-5--v1.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/css3.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/javascript--v1.png">
+    <img alt="" height="40" width="40" src="https://img.icons8.com/plasticine/344/react.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/nodejs.png">
     <img alt="" height="35" width="35" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/mysql-logo.png">
     <img alt="" height="35" width="35" src="https://img.icons8.com/color/344/figma--v1.png">
-    <img alt="" height="40" width="40" src="https://img.icons8.com/plasticine/344/react.png">
+    
 </div>
 
  ## Estou aprendendo:
