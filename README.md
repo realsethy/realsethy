@@ -24,7 +24,7 @@
 </div>
 
  ## Estou aprendendo:
-   <img alt="" height="40" width="40" src="https://img.icons8.com/plasticine/344/typescript.png">
+   <img alt="" height="40" width="40" src="https://img.icons8.com/color/48/undefined/typescript.png"/>
   </br>
 <div> 
  
