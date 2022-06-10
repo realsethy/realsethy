@@ -21,11 +21,13 @@
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/mysql-logo.png">
     <img alt="" height="35" width="35" src="https://img.icons8.com/color/344/figma--v1.png">
+    <img alt="" height="35" width="35" src="https://img.icons8.com/color/48/undefined/git.png">
     
 </div>
 
  ## Estou aprendendo:
-   <img alt="" height="40" width="40" src="https://img.icons8.com/color/48/undefined/typescript.png"/>
+   <img alt="" height="40" width="40" src="https://img.icons8.com/color/48/undefined/typescript.png">
+   <img alt="" height="35" width="35" src="https://icons.coreui.io/icons/brand/next-js">
   </br>
 <div> 
  
