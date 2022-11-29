@@ -27,7 +27,7 @@
 
  ## Estou aprendendo:
    <img alt="" height="40" width="40" src="https://img.icons8.com/color/48/undefined/typescript.png">
-   <img alt="" height="40" width="40" src="https://icons8.com.br/icon/anECpXcEIboQ/logo-php">
+   <img alt="" height="40" width="40" src="https://img.icons8.com/offices/30/null/php-logo.png">
   </br>
 <div> 
  
