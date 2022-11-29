@@ -26,6 +26,7 @@
 </div>
 
  ## Estou aprendendo:
+ <div style="inline_block">
    <img alt="" height="40" width="40" src="https://img.icons8.com/color/48/undefined/typescript.png">
    <img alt="" height="40" width="40" src="https://img.icons8.com/offices/30/null/php-logo.png">
   </br>
