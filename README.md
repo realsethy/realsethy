@@ -2,11 +2,11 @@
 
  <br/>
  <div>
-  <a href="https://github.com/D4ITO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4ITO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/realsethy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=realsethy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    </br>
  </br>
-  <img width="459em"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4ITO&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <img width="459em"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsethy&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
 
 ## Ferramentas e Tecnologias:
